@@ -1,0 +1,11 @@
+.addcomplaint{
+    border-style:solid;
+    border-width:1px;
+    border-color:black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    margin-top:30px;
+}
